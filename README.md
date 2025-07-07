@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtpeG5jZG16NjI2bngwZGcxZWswMmFxMmZhajJ0OTA4ZG0xc3RsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6vj5quVNRhoQw/giphy.gif" width="600" alt="Animación de código"/>
+</p>
 
 <h1 align="center">Franchesca Mora 👩‍💻🌸</h1>
 <h3 align="center">Aquí hago las tareas de la escuelita 💻📖.</h3>
