@@ -2,13 +2,12 @@
 <h1 align="center">Franchesca Mora 👋</h1>
 <h3 align="center">Aquí hago las tareas de la escuelita.</h3>
 
-<hr>
 
 <p align="left">
   🎓 Soy estudiante de Ingeniería Civil Informática de la Universidad de Concepción. <br>
 </p>
 
-<hr>
+
 
 <h2 align="center">🛠️ Lenguajes y Herramientas</h2>
 <p align="center">
