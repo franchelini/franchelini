@@ -9,7 +9,7 @@
 
 
 
-<h2 align="center">🛠️ Lenguajes y Herramientas</h2>
+<h3 align="center">🛠️ Lenguajes y Herramientas</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git&perline=7" />
