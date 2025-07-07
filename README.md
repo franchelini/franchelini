@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHE5b3JpZ3d1eTBxMHF4bHpzaWk2bWRha2w0bGlvZjU2dmpnM3k4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hDx80E/giphy.gif" width="600" alt="Animación de código"/>
-</p>
 
 <h1 align="center">Franchesca Mora 👋</h1>
 <h3 align="center">Aquí hago las tareas de la escuelita.</h3>
